@@ -20,6 +20,7 @@ Also know as *Deadeye*, *The decision game*, and *Old Testament Jesus and his sp
 - Each planet can be in many cross-planet cells.
 - A system-wide super cell writes treaties that each cell must ratify down to the planet level. Because each planet-level cell is a super cell of cultures, geographies, & guilds, it works.
 - When a problem cannot be resolved up to the planetary level or when there is an interplanetary crisis, the adjudicators are called.
+- Players play the adjudicators. They are like a systems-wide circuit of supreme court justices hearing arguments, making decisions, enforcing them, and dealing with the consequences.
 - They are cells of executives from different philosophies of government and mysticism to preserve diveristy of thought. They are expected to uphold the treaties, but are not bound to them in their enforcement of the treaties.
 - They cannot belong to any cell, ever, apart from their cell of 3 or 5 adjudicators, each from a different school and system.
 - They alone can bear weapons in adjudications.
