@@ -61,7 +61,7 @@ Also know as *Deadeye*, *The decision game*, and *Old Testament Jesus and his sp
 ## Schools
 
 - Schools can be academies that deliver the same curriculum and experience across planets. 
-- Schools can be loosely federated and run by individual and idisyncratic masters on different planets, each fully graduating trusted adjudicators in an overarching tradition.
+- Schools can be loosely federated and run by individual and idiosyncratic masters on different planets, each fully graduating trusted adjudicators in an overarching tradition.
 - Schools can be sites on different planets organized into "chambers" or parts of a pilgrimage an ajudicator needs to complete to graduate.
 - Schools can follow other cross-sector or otherwise intra-system models imagined by GMs and players.
 
