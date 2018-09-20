@@ -43,7 +43,7 @@ Also know as *Deadeye*, *The decision game*, and *Old Testament Jesus and his sp
 
 - You should play Adjudication space with 3 or 5 players to avoid tied decisions. The big idea is to enforce a majority decision with a unitied will after each adjudication, to practice reasoning according to PCs' schools, to preserve and appreciate diversity of thought, and to work together despite differences to define and enact the most equitable, fair, and just outcome possible in each adjudication. And to fight your way out when locals object and break treaties made against violence.
 - If you have 3 players, have each define 2 sectors in your system. Play in a 6-sector system. One sector should be for their school; the other should be some kind of rival or opposite to create tension and hooks in the campaign.
-- If you have 5 players, have each degine 1 sector in the system. Play in a 5-sector system, or let the GM create a central-government system or rogue system or forbidden or mystery system - something to increase the tension and number of campaign hooks available to players.
+- If you have 5 players, have each define 1 sector in the system. Play in a 5-sector system, or let the GM create a central-government system or rogue system or forbidden or mystery system - something to increase the tension and number of campaign hooks available to players.
 
 ### Sector composition
 
