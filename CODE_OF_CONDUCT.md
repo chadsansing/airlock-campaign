@@ -1,4 +1,4 @@
-#Airlock campaign Code of Conduct
+# Airlock campaign Code of Conduct
 
 We've adopted Mozilla's Community Participation Guidelines for this campaign. [Please read them here](https://www.mozilla.org/en-US/about/governance/policies/participation/) before playing.
 
