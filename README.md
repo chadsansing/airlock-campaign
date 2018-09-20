@@ -9,4 +9,4 @@ Check out [*Sigmata: This Signal Kills Fascists*](https://www.drivethrurpg.com/p
 
 ## License
 
-Both *Sigmata: This Signal Kills Fascists* and *Cryptomancer* are ©Chad Walker. As per this repo's [license](https://github.com/chadsansing/airlock-campaign/blob/master/LICENSE), original content contributed to this repo is licensed [CC B-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) by Chad Sansing and all original code contributed to this repo is licensed under the GNU General Public License.
+Both *Sigmata: This Signal Kills Fascists* and *Cryptomancer* are ©Chad Walker. As per this repo's [license](https://github.com/chadsansing/airlock-campaign/blob/master/LICENSE), original content contributed to this repo is licensed [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) by Chad Sansing and all original code contributed to this repo is licensed under the GNU General Public License.
