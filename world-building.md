@@ -25,7 +25,7 @@ Also know as *Deadeye*, *The decision game*, and *Old Testament Jesus and his sp
 - They alone police themselves.
 - Their decisions do not become precedent or treaty, though they are free to travel from planet to planet or system to system ruling the same way in each similar case.
 - Because of their freedom from dependencies and expectations, there are schools of thought, mysticism, and technology available to them that are not allowed, by treaty, among the general populace.
-- The world-building with PCs involves defining 5 or 6 sectors, typiucally 1 or 2 per player, Y planets and planet-cells in each sector, and Z culture, geography, and guild cells per planet.
+- The world-building with PCs involves defining 5 or 6 sectors, typically 1 or 2 per player, Y planets and planet-cells in each sector, and Z culture, geography, and guild cells per planet.
 - Each of the 5 sectors is also home to 1 school of adjudicator, and the player from each sector defines their school, its philosophy of government, its mystic traditions, and its technology. The technology, alone, flavors the rest of the sector in noticeable forms - aesthetic, not mechanical.
 - The definition of a school should influence its adherents' stats, powers, relationships, inventories, aesthetics, and playstyles.
 
