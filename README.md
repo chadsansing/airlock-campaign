@@ -1,5 +1,5 @@
 # airlock-campaign
-A repo for our game of *Airlock*, a sci-fi TTRPG by Chad Walker
+A repo for *Adjudication space*, our game of *Airlock*, a sci-fi TTRPG by Chad Walker
 
 ## Intro
 
