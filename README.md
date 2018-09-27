@@ -13,7 +13,7 @@ Contribute ideas, questions, and suggestions as issues. Contribute edits and mor
 
 ## License
 
-Both *SIGMATA: This Signal Kills Fascists* and *Cryptomancer* are ©Chad Walker. As per this repo's [license](https://github.com/chadsansing/airlock-campaign/blob/master/LICENSE), original content contributed to this repo is licensed [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) by Chad Sansing and all original code contributed to this repo is licensed under the GNU General Public License.
+*Airlock*, *SIGMATA: This Signal Kills Fascists* and *Cryptomancer* are all ©Chad Walker. As per this repo's [license](https://github.com/chadsansing/airlock-campaign/blob/master/LICENSE), original content contributed to this repo is licensed [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) by Chad Sansing and all original code contributed to this repo is licensed under the GNU General Public License.
 
 ## Fonts
 
