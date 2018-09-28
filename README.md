@@ -5,7 +5,7 @@ A repo for *Adjudication Space*, our game of *Airlock*, a sci-fi TTRPG by Chad W
 
 In *Adjudication Space*, PCs serve as judges, called Adjudicators, on an interplanetary circuit court tasked with keeping the peace across the Cantor system.
 
-Cantor operates on a vast Holacarcy. People form different kinds of groups, called cells, to fulfill different roles and responsibilities. Local cells take care of culture, trade, and security and law enforcement. Regional cells help govern what we might think of as cities, provinces, states, or even counties or continents. Planetary cells keep everyone working together. A system cell decides on treaties for all the planets to follow.
+Cantor operates on a vast Holacracy. People form different kinds of groups, called cells, to fulfill different roles and responsibilities. Local cells take care of culture, trade, and security and law enforcement. Regional cells help govern what we might think of as cities, provinces, states, or even counties or continents. Planetary cells keep everyone working together. A system cell decides on treaties for all the planets to follow.
 
 Local cells check regional cells; regional cells check planetary cells; planetary cells check the system cell. Treaties don't get ratified without a lot of compromise and consensus.
 
