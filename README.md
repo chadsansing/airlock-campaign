@@ -1,6 +1,8 @@
 # airlock-campaign
 A repo for *Adjudication Space*, our game of *Airlock*, a sci-fi TTRPG by Chad Walker
 
+![Adjudication Space banner](imagages/adjudication-space-title.png)
+
 ## Intro
 
 In *Adjudication Space*, PCs serve as judges, called Adjudicators, on an interplanetary circuit court tasked with keeping the peace across the Cantor system.
