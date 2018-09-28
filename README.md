@@ -29,5 +29,5 @@ Contribute ideas, questions, and suggestions as issues. Contribute edits and mor
 
 Fonts used in campaign materials are as follows:
 
-**Title font:** Bungee Hairline
-**Body font:** Vollkorn
+- **Title font:** Bungee Hairline
+- **Body font:** Vollkorn
