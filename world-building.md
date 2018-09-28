@@ -1,6 +1,8 @@
-# *Adjudication space* wold-building
+# *Adjudication Space* wold-building
 
 Also know as *Deadeye*, *The decision game*, and *Old Testament Jesus and his space commandos!*
+
+These original notes are superceeded in all cases by the rules and guidelines in player-resources.
 
 ## Maxims
 
