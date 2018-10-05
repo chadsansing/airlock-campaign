@@ -67,6 +67,11 @@ Since there was a contract and a set price, the PCs ruled that Illyum should get
 
 The crew of the cargo hauler and its escort disagree and are attempting to break orbit and flee. The PCs are aboard *the Ibis Feather* and must move to intercept. The hauler and the 3 fighters escorting it are willing to risk flight in order to make a killing on the market. They will not stop and will fire if fired upon, so it's ship-to-ship combat unless the Adjudicators can talk down the other side.
 
+This is a 3-chop scene.
+
+- 3 fighters (2 danger each)
+- 1 frigate (4 danger)
+
 The hauler is going to be far enough away from Illyum to jump to near-light speed in 5 turns. The fighters will attenpt to harass and add pressure to the crew.
 
 This is the first scene, so it's important to remind the PCs that they can resolve this peacefully, use their crew skills in inventive ways, and use all of their powers to coerce the hauler to comply with their judgment ("You will lose your trade rep in your planet's cell"). A hull-breach and boarding is another possibility.
@@ -87,17 +92,23 @@ This is the first scene, so it's important to remind the PCs that they can resol
 
 ### Type
 
-Combat
+Combat or Evasion
 
 ### Conflict
 
 As soon as the PCs have resolved the conflict above Illyum, they're called to [nearby planet]. A team of Adjudicators just declared the death sentence for a law encorcement cell members found guilty of using excessive force against the local population during a labor dispute, resulting the the death of 5 cilvilians. 
 
-His peers rejected the Adjudicators' judgment and attacked them to prevent the execution. The Adjudicators need extraction from the spaceport. Their ship has been disabled. The planet cell is organizing a response to put down the mutiny and restor order, but it will take more time than the Adjudicators have to mount a response. The PCs need to fly in, secure a dock against the local law enforcement mutineers, and cover for their peers until everyone is aboard *the  Ibis Feather.*
+His peers rejected the Adjudicators' judgment and attacked them to prevent the execution. The Adjudicators need extraction from the spaceport. Their ship has been disabled. The planet cell is organizing a response to put down the mutiny and restore order, but it will take more time than the Adjudicators have to mount a response. The PCs need to fly in, secure a dock against the local law enforcement mutineers, and cover for their peers until everyone is aboard *the  Ibis Feather.*
 
-The Adjudicators are hholed up in a locked cargo bay. The PCs have to fight their way to them.
+The Adjudicators are hholed up in a locked cargo bay on Attis. The PCs have to fight their way to them.
 
-There are 4 local law enforcement mutineers sent to intercept the PCs.
+There are 4 local law enforcement mutineers sent to intercept the PCs. They have ballistic rifles. 3 danger each.
+
+If this is played as an Evasion scene, the objectives are 10 waypoints each.
+
+- Get to the Adjudicators.
+- Hold the door while you open it.
+- Get back to the ship.
 
 ### Outcome(s)
 
@@ -107,17 +118,21 @@ There are 4 local law enforcement mutineers sent to intercept the PCs.
 ### Reward(s)
 
 - -5 fatigue.
-- Combat means.
+- Combat or Evasion means.
 
 ## Scene 3
 
 ### Type
 
-Evasion
+**Optional:** Evasion (only if the previous scene was combat).
 
 ### Conflict
 
-The PCs need to guide the Adjudicators back to *the Ibis Feather.*
+The PCs need to get the Adjudicators back to *the Ibis Feather.*
+
+The alarm is 4. 
+
+This is just a 10-waypoint escape back to the ship with the PCs responsible for the Adjudicators danger levels, as well. Each round with the Adjudicators' danger at 10 results in one being captured.
 
 ### Outcome(s)
 
@@ -130,6 +145,7 @@ The PCs need to guide the Adjudicators back to *the Ibis Feather.*
 
 - -5 fatigue
 - Evasion means.
+- Raise a talent a level.
 
 ## Next time on Adjudication Space...
 
