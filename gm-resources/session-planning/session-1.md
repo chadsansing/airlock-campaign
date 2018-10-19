@@ -40,6 +40,8 @@ The innerbelt intelligence calls itself Rin.
 
 Shut will enter a new war with Rin to invade Cantor and end the humans once and for all. Rin may call for help if Shut begins to defeat them.
 
+Rin and Shut build themselves and their robot workers and proxies from the same exotic material from the planetoid in the middle of the system - they vie for its mass. Each bit of them that loses coherence flies back into the planetoid to be rentangled and recycled.
+
 What will it mean to the Adjudicators to find human life from beyond the system? Will the Holocracy consider them human and bound by the treaties? Will they be able to communicate their story? What will be left of their ship and its records when the Cantor humansa find it? 
 
 What does it mean to be human and what are Cantor's responsibilities to the lost sectors and the machines?
