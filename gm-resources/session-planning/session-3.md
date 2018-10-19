@@ -6,11 +6,11 @@ Picking up from our free-play cliffhanger, session 2...
 
 ## Chatter aboard *the Ibis Feather*
 
-- **Bicep:** *We’ve gotta be ready for whatever comes out of that wormhole next, or, That thing didn’t look so tough; it wasn’t even armed.*
-- **Godiva:** *We need to establish contact with whatever brought that person here, or, Without knowing more about what that was and what it wants, it’s too early to pursue contact.*
-- **Guppy:** *I was looking forward to some salvage, or, When I look at this person, I feel strange to see what we once were.*
-- **Merino:** *I thought maybe we would find treasure, but I never thought we’d find a body, or, Can you imagine the wealth and technology that *must be on the other side of the wormhole?*
-- **Wrench:** *I’ve never seen a machine that could take itself apart like that and still somehow work, or, What does this mean for us - for all of us?*
+- **Bicep:** *We’ve gotta be ready for whatever comes out of that wormhole next,* or, *That thing didn’t look so tough; it wasn’t even armed.*
+- **Godiva:** *We need to establish contact with whatever brought that person here,* or, *Without knowing more about what that was and what it wants, it’s too early to pursue contact.*
+- **Guppy:** *I was looking forward to some salvage,* or, *When I look at this person, I feel strange to see what we once were.*
+- **Merino:** *I thought maybe we would find treasure, but I never thought we’d find a body,* or, *Can you imagine the wealth and technology that *must be on the other side of the wormhole?*
+- **Wrench:** *I’ve never seen a machine that could take itself apart like that and still somehow work,* or, *What does this mean for us - for all of us?*
 
 ## Scene 1
 
@@ -26,7 +26,14 @@ The official story is that an alien probe came through the wormhole and then wen
 
 The system cell orders Adjudication HQ to send the approaching back-up vessels after *the Ibis Feather*. The ship will be boarded and its adjudicators imprisoned or perhaps killed. None of the other adjudicators know what the crew saw - the only knew they were ordered to support the ship, and then board it and imprison its crew. The crew has been ordered to be silent, as well.
 
-One of Merino's mentors is at Adjudicator HQ; an ancient diplomat; she sends a warning: the implications of this event are too big for the system not to try to control. They will silence you. They are not interested in diplomacy, but in keeping the system from upheaval, panic, and superstitious reverie. Follow the probe. Run!
+One of Merino's mentors is at Adjudicator HQ; an ancient diplomat; she sends a warning: the implications of this event are too big for the system not to try to control. They will silence you. They are not interested in diplomacy, but in keeping the system from upheaval, panic, and superstitious reverie. Follow the probe. Run! Find the thing that will make them negotiate with you - information!
+
+Their colleagues, including the 3 adjudicators they rescured from Attis, are aboard the following ships:
+
+- *The Market Correction*.
+- *The Justice Worm*.
+- *The Salvage Tax*.
+- *The Notion in Amber*.
 
 ### Outcome(s)
 

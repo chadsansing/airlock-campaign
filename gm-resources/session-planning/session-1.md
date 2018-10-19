@@ -42,14 +42,15 @@ Shut will enter a new war with Rin to invade Cantor and end the humans once and 
 
 Rin and Shut build themselves and their robot workers and proxies from the same exotic material from the planetoid in the middle of the system - they vie for its mass. Each bit of them that loses coherence flies back into the planetoid to be rentangled and recycled.
 
-What will it mean to the Adjudicators to find human life from beyond the system? Will the Holocracy consider them human and bound by the treaties? Will they be able to communicate their story? What will be left of their ship and its records when the Cantor humansa find it? 
+Shut has named its helper AIs after the other parts of the soul to do its work in the dark sectors.
+
+What will it mean to the Adjudicators to find human life from beyond the system? Will the Holocracy consider them human and bound by the treaties? Will they be able to communicate their story? What will be left of their ship and its records when the Cantor humans find it? 
 
 What does it mean to be human and what are Cantor's responsibilities to the lost sectors and the machines?
 
 Those are the key questions behind this campaign, inspired by Alastair Reynold's *House of Suns* and the Egyptian concept of the soul.
 
 Possible outcomes include the utter seclusion of Cantor, peace with all of Petra, and the conquest of the outerbelt forces, the re-establishment of the human interstellar empire, and the ascension of the PCs to fulfill the role of Anubis and judge the human dead for Shut and Rin before deciding which peoples and systems to reconstitute. Retreat, surrender, revenge, restoration, extinction - these are all possibilities.
-
 
 PCs are voidnaut Adjudicators of Cantor space aboard the ship *the Ibis Feather.* They uphold the system-wide Holacarcy and its set of treaties, but are not bound by them. They are like a circuit court, but also judge, jury, and executor of their decisions, which are not often violent, lethal, or unwise.
 
