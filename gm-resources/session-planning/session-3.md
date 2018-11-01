@@ -33,7 +33,7 @@ Their colleagues, including the 3 adjudicators they rescured from Attis, are abo
 - *The Market Correction*.
 - *The Justice Worm*.
 - *The Salvage Tax*.
-- *The Notion in Amber*.
+- *The Notion in Amber*. This is the ship beloning to the Adjudicators the PCs rescued on Attis.
 - *The Patient Millenium*.
 
 ### Outcome(s)
@@ -45,6 +45,10 @@ Their colleagues, including the 3 adjudicators they rescured from Attis, are abo
 
 - -5 fatigue.
 - The PCs get to raise a Crew skill by 1.
+
+//
+***We made it this far. Moving scenes 2 & 3 to session 4.***
+//
 
 ## Scene 2
 
