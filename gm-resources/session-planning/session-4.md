@@ -1,4 +1,15 @@
+# Session 4
+
 ***Scenes 1 & 2 are carried over from session 3 in which they were originally scenes 2 & 3.***
+
+## Chatter
+
+- **Bicep:** *What the hell is that?*, or, *Another system for adjudication. Let’s do this.*
+- **Godiva:** *What is that planet?*, or, *We must have more information about what’s going on here.*
+- **Guppy:** *That planet is incredible*, or, *The riches in these asteroid belts must be immense.*
+- **Merino:** *This place would make the perfect hideout*, or, *We should look out for trouble in these asteroid fields. It’s where I’d hide if I were, uh, a pirate.*
+- **Wrench:** *Let’s get enough information to buy our way back into the system as quickly as possible*, or, *I wonder if we could outfit the ship with some of that exotic matter.*
+
 
 ## Scene 1
 
@@ -53,7 +64,7 @@ Crew
 
 ### Conflict
 
-- Regardless of where the PCs go next, Shut sends a small swarm of 4 impossible exotic matter fighters against them. Chop 4.
+- Regardless of where the PCs go next, Shut sends a small swarm of 5 exotic matter fighters against them. Chop 4.
 
 ### Outcome(s)
 
