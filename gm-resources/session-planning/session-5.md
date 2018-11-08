@@ -58,7 +58,7 @@ Crew
 
 ### Conflict
 
-The PCs decide where to go next. A frigate-sized exotic matter vessel braks off the planet to intercept the PCs wherever they decide to go.
+The PCs decide where to go next. A destroyer-sized exotic matter vessel braks off the planet to intercept the PCs wherever they decide to go.
 
 Chop 4. Crazy weapons like disc-rounds that expand into rings, opening holes in the *Ibis Feather's* hull.
 
