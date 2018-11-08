@@ -18,7 +18,7 @@ Evasion
 
 A second wave of Shut proxies attacks the PCs, forcing them away from their ship and chasing them across nearby asteroids. In the distance, another signal flashes - a Rin proexy beckones them to safety.
 
-There are 5 more Shut proxies firing exotic particle blasters. Pressure is 4. The PCs have to make it across 4 asteroids or 20 waypoints.
+There are 10 more Shut proxies firing exotic particle blasters. Pressure is 4. The PCs have to make it across 3 asteroids or 15 waypoints.
 
 ### Outcome(s)
 
