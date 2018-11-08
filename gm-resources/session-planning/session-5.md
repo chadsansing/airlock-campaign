@@ -3,10 +3,10 @@
 ## Chatter
 
 - **Bicep:** *If any of those robots are keeping more dead people around, there will be hell to pay*, or, *Let's liberate this sector from its robot overlords for the Holacracy!*
-- **Godiva:** *We should stay here and gather more information*, or, *We should go back and share what we learned.*
-- **Guppy:** *I want to get a closer look at that planet*, or, *We should stay as far away from that planet as possible.*
+- **Godiva:** *This makes me think of the worst deal I ever brokered*, or, *This reminds me of a treaty gone bad.*
+- **Guppy:** *I still want to get a closer look at that planet*, or, *We should stay as far away from that planet as possible.*
 - **Merino:** *What are we going to do now?*, or, *I think I may have a plan.*
-- **Wrench:** *Do we go back or make a run for those other wormholes?*, or, *What do we think these robots even want?*
+- **Wrench:** *I have never felt so sick*, or, *What do these robots even want?*
 
 ## Scene 1
 
