@@ -1,0 +1,122 @@
+<!--Changelog-->
+<!--Last modified 11/23/18-->
+<!--Skills with rank 5 roll the dice, but don't return or display results.-->
+<!--Bug reported at https://app.roll20.net/forum/post/6980237/dice-roll-bug-in-group-rolls-when-dice-equals-0/?pageforid=6980237#post-6980237-->
+<!--Used a work-around to get past the bug, but it's still an issue. See the bug above for the work-around.-->
+<!--Follow progress at https://app.roll20.net/forum/post/6979031/calling-successes-and-botches-from-a-sum-roll/?pageforid=6980196#post-6980196-->
+
+<!--Airlock ©Chad Walker, available at https://www.drivethrurpg.com/product/247973/SIGMATA-This-Signal-Kills-Fascists-->
+
+<!--Character background-->
+
+<div class="char-name">
+	<span><strong>Callsign:</strong>&nbsp;<input type="text" name="attr_character_callsign" /></span>
+	<span><strong>Name:</strong>&nbsp;<input type="text" name="attr_character_name" /></span></p></span>
+	<span><strong>AIRLOCK</strong></span>
+</div>
+
+<div class="char-description">
+	<span><strong>Identifiers:</strong>&nbsp;<input type="text" name="attr_character_identifiers"  /></span>
+</div>
+
+<!--Character relationships-->
+
+<div class="char-relationships">
+	
+	<p><strong>Relationships</strong></p>
+	<p><input type="text" name="crewmate_one" value="" />&nbsp;is my&nbsp;<input type="text" name="relationship_one" value="" />.&nbsp;Active:&nbsp; <input type="checkbox" name="relationship_one_active" value=''/>&nbsp;Used:&nbsp;<input type="checkbox" name="relationship_one_used" value=''/></p>
+	<p><input type="text" name="crewmate_two" value="" />&nbsp;is my&nbsp;<input type="text" name="relationship_two" value="" />.&nbsp;Active:&nbsp; <input type="checkbox" name="relationship_two_active" value=''/>&nbsp;Used:&nbsp;<input type="checkbox" name="relationship_two_used" value=''/></p>
+	<p><input type="text" name="crewmate_three" value="" />&nbsp;is my&nbsp;<input type="text" name="relationship_three" value="" />.&nbsp;Active:&nbsp; <input type="checkbox" name="relationship_three_active" value=''/>&nbsp;Used:&nbsp;<input type="checkbox" name="relationship_three_used" value=''/></p>
+	<p><input type="text" name="crewmate_four" value="" />&nbsp;is my&nbsp;<input type="text" name="relationship_four" value="" />.&nbsp;Active:&nbsp; <input type="checkbox" name="relationship_four_active" value=''/>&nbsp;Used:&nbsp;<input type="checkbox" name="relationship_four_used" value='' /></p>
+	<!--<<p><input type="text" name="crewmate_four" value="" />&nbsp;is my&nbsp;<input type="text" name="relationship_four" value="" />.&nbsp;Active:&nbsp; <input type="checkbox" name="relationship_five_active" value=''/>&nbsp;Used:&nbsp;<input type="checkbox" name="relationship_five_used" value='' /></p>-->
+
+</div>
+
+<!--Character stats-->
+
+<div class="4colrow">
+
+	<div class="col" id="combat">
+	
+		<p><strong>Combat</strong></p>
+		<p>Storm <input type="number" name="attr_Storm" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Storm}d10cs>6cf<1sd}>6f1 + {(5-@{Storm})d6cs>6cf<1sd, 0d6}>6f1' name='roll_StormCheck'></button></p>
+		<p>Flank <input type="number" name="attr_Flank" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Flank}d10cs>6cf<1sd}>6f1 + {(5-@{Flank})d6cs>6cf<1sd, 0d6}>6f1' name='roll_FlankCheck'></button></p>
+		<p>Regroup <input type="number" name="attr_Regroup" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Regroup}d10cs>6cf<1sd}>6f1 + {(5-@{Regroup})d6cs>6cf<1sd, 0d6}>6f1' name='roll_RegroupCheck'></button></p>
+		<p>Suppress <input type="number" name="attr_Suppress" value='1'max="5" min="1"  />&nbsp;<button type='roll' value='/roll {@{Suppress}d10cs>6cf<1sd}>6f1 + {(5-@{Suppress})d6cs>6cf<1sd, 0d6}>6f1' name='roll_SuppressCheck'></button></p>
+	
+	</div>
+
+	<div class="col" id="evasion">
+	
+		<p><strong>Evasion</strong></p>
+		<p>Rush <input type="number" name="attr_Rush" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Rush}d10cs>6cf<1sd}>6f1 + {(5-@{Rush})d6cs>6cf<1sd, 0d6}>6f1' name='roll_RushCheck'></button></p>
+		<p>Sneak <input type="number" name="attr_Sneak" value='1'max="5" min="1"  />&nbsp;<button type='roll' value='/roll {@{Sneak}d10cs>6cf<1sd}>6f1 + {(5-@{Sneak})d6cs>6cf<1sd, 0d6}>6f1' name='roll_SneakCheck'></button></p>
+		<p>Fade <input type="number" name="attr_Fade" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Fade}d10cs>6cf<1sd}>6f1 + {(5-@{Fade})d6cs>6cf<1sd, 0d6}>6f1' name='roll_FadeCheck'></button></p>
+		<p>Deny <input type="number" name="attr_Deny" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Deny}d10cs>6cf<1sd}>6f1 + {(5-@{Deny})d6cs>6cf<1sd, 0d6}>6f1' name='roll_DenyCheck'></button></p>
+	
+	</div>
+
+	<div class="col" id="intrigue">
+	
+		<p><strong>Intrigue</strong></p>
+		<p>Confront <input type="number" name="attr_Confront" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Confront}d10cs>6cf<1sd}>6f1 + {(5-@{Confront})d6cs>6cf<1sd, 0d6}>6f1' name='roll_ConfrontCheck'></button></p>
+		<p>Snoop <input type="number" name="attr_Snoop" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Snoop}d10cs>6cf<1sd}>6f1 + {(5-@{Snoop})d6cs>6cf<1sd, 0d6}>6f1' name='roll_SnoopCheck'></button></p>
+		<p>Gel <input type="number" name="attr_Fade" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Fade}d10cs>6cf<1sd}>6f1 + {(5-@{Fade})d6cs>6cf<1sd, 0d6}>6f1' name='roll_FadeCheck'></button></p>
+		<p>Support <input type="number" name="attr_Support" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Support}d10cs>6cf<1sd}>6f1 + {(5-@{Support})d6cs>6cf<1sd, 0d6}>6f1' name='roll_SupportCheck'></button></p>
+	
+	</div>
+	
+	<div class="col" id="crew">
+	
+		<p><strong>Crew</strong></p>
+		<p>Push&nbsp;<input type="number" name="attr_Push" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Push}d10cs>6cf<1sd}>6f1 + {(5-@{Push})d6cs>6cf<1sd, 0d6}>6f1' name='roll_PushCheck'></button></p>
+		<p>Focus&nbsp;<input type="number" name="attr_Focus" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Focus}d10cs>6cf<1sd}>6f1 + {(5-@{Focus})d6cs>6cf<1sd, 0d6}>6f1' name='roll_FocusCheck'></button></p>
+		<p>Maintain&nbsp;<input type="number" name="attr_Maintain" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Maintain}d10cs>6cf<1sd}>6f1 + {(5-@{Maintain})d6cs>6cf<1sd, 0d6}>6f1' name='roll_MaintainCheck'></button></p>
+		<p>Compensate&nbsp;<input type="number" name="attr_Compensate" value='1' max="5" min="1" />&nbsp;<button type='roll' value='/roll {@{Compensate}d10cs>6cf<1sd}>6f1 + {(5-@{Compensate})d6cs>6cf<1sd, 0d6}>6f1' name='roll_CompensateCheck'></button></p>
+	
+	</div>
+	
+</div>
+
+<!--Character abilities (voidnetics, talents, & passage, inventory (means), XP-->
+
+<div class="3colrow">
+		
+	<div class="col" id="blades &amp; memories &amp; libraries &amp; ups">
+		
+		<p><strong>Voidnetics</strong></p>
+		<p>Voidnetic 1:&nbsp;<input type="text" name="blade_one" value="Name" /></p>
+		<p>Voidnetic 2:&nbsp;<input type="text" name="blade_two" value="Name" /></p>
+		<p>Voidnetic 3:&nbsp;<input type="text" name="blade_three" value="Name" /></p>
+		<p>Voidnetic 4:&nbsp;<input type="text" name="blade_four" value="Name" /></p>
+		<!--<p>Voidnetic 5:&nbsp;<input type="text" name="blade_five" value="Name" /></p>-->
+		<p><strong>Passage:</strong>&nbsp;<input type="text" name="memory_one" value='Name (scene)' /></p>
+		<p><strong>Passage:</strong>&nbsp;<input type="text" name="library_one" value='Name (scene)' /></p>
+		<p><strong>XP</strong>&nbsp;<input type="number" name="ups" value='0' /></p>
+		
+		
+	</div>
+	
+	<div class="col" id="peripherals">
+		
+		<p><strong>Means</strong></p>
+		<p>Means 1 (skill):&nbsp;<input type="text" name="peripheral_one" value='Name (skill)' /><br>Edge&nbsp;<input type='checkbox' name='peripheral_one_edge'   />&nbsp;Break&nbsp;<input type='checkbox' name='peripheral_one_break'   /></p>		
+		<p>Means 2 (skill):&nbsp;<input type="text" name="peripheral_two" value='Name (skill)' /><br>Edge&nbsp;<input type='checkbox' name='peripheral_two_edge'   />&nbsp;Break&nbsp;<input type='checkbox' name='peripheral_two_break'   /></p></p>		
+		<p>Means 3 (skill):&nbsp;<input type="text" name="peripheral_three" value='Name (skill)' /><br>Edge&nbsp;<input type='checkbox' name='peripheral_three_edge'   />&nbsp;Break&nbsp;<input type='checkbox' name='peripheral_three_break'   /></p></p>		
+		<p>Means 4 (skill):&nbsp;<input type="text" name="peripheral_four" value='Name (skill)' /><br>Edge&nbsp;<input type='checkbox' name='peripheral_four_edge'   />&nbsp;Break&nbsp;<input type='checkbox' name='peripheral_four_break'   /></p></p>		
+		<!--<p>Means 5 (skill):&nbsp;<input type="text" name="peripheral_five" value='Name (skill)' /><br>Edge&nbsp;<input type='checkbox' name='peripheral_five_edge'   />&nbsp;Break&nbsp;<input type='checkbox' name='peripheral_five_break'   /></p>-->
+		
+	</div>
+	
+	<div class="col" id=" &amp; UPs">
+		
+		<p><strong>Talents</strong></p>			
+		<p>Talent 1 (rank):&nbsp;<input type="text" name="subroutine_one" value="Name (rank)" /></p>
+		<p>Talent 2 (rank):&nbsp;<input type="text" name="subroutine_two" value="Name (rank)" /></p>
+		<p>Talent 3 (rank):&nbsp;<input type="text" name="subroutine_three" value="Name (rank)" /></p>
+		<p>Talent 4 (rank):&nbsp;<input type="text" name="subroutine_four" value="Name (rank)" /></p>
+		<!--<p>Talent 5 (rank):&nbsp;<input type="text" name="subroutine_five" value="Name (rank)" /></p>-->
+		<p><strong>Fatigue:</strong>&nbsp;<input type="checkbox" name="fatigue_one" value=''/>&nbsp;<input type="checkbox" name="fatigue_two" value=''/>&nbsp;<input type="checkbox" name="fatigue_three" value=''/>&nbsp;<input type="checkbox" name="fatigue_four" value=''/>&nbsp;<input type="checkbox" name="fatigue_five" value=''/>&nbsp;<input type="checkbox" name="fatigue_six" value=''/>&nbsp;<input type="checkbox" name="fatigue_seven" value=''/>&nbsp;<input type="checkbox" name="fatigue_eight" value=''/>&nbsp;<input type="checkbox" name="fatigue_nine" value=''/>&nbsp;<input type="checkbox" name="fatigue_ten" value=''/>
+	</div>
+
+</div>
