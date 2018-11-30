@@ -28,48 +28,6 @@ The PCs lead the Shut proxies into an ambush. Rin proxies surround the Shut prox
 
 - Raise 1 Evasion skill by 1 Rank.
 
-## Scene 2
-
-### Type
-
-Intrigue
-
-### Conflict
-
-The PCs have no idea what's going on, but can ask a few questions to find out more before the Shut proxy wins and begins corrupting and breaking apart the habitat and asteroid aling the "fault lines" of its etched circuitry.
-
-Each question will be a 15-pointer since all of the Rin proxies are under duress. Alarm will be 3. Finishing a round at 10 results in a treacherous energy blast from the Shut proxy killing any PC who does not initiate the Phoenix Protocol.
-
-They can ask both proxies questions.
-
-### Outcome(s)
-
-The PCs learn more about the proxies' conflict and plans for Petra and Cantor. The Shut proxy may promise mercy if the PCs go home and cede control of the system. They promise to defeat Rin and destroy the wormhole. The Rin proxies will try to find the words to share their history and warn the PCs of Shut's true intent - human extinction across all systems.
-
-### Reward
-
-- Raise a Talent rank from 3 to 4.
-
-## Scene 3
-
-### Type
-
-Crew
-
-### Conflict
-
-The PCs decide where to go next. A destroyer-sized exotic matter vessel braks off the planet to intercept the PCs wherever they decide to go.
-
-Chop 4. Crazy weapons like disc-rounds that expand into rings, opening holes in the *Ibis Feather's* hull.
-
-### Outcome(s)
-
-The PCs neutralize or evade the frigate and make it to their destination.
-
-### Reward
-
-- Add a voidnetic that makes sense with the story.
-
 ## Next time on Adjudication Space...
 
-The PCs return to Cantor with new information or investigate Petra further.
+The PCs interrogate the a Shut proxy and plan their next steps in Cantor.
