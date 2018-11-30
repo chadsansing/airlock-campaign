@@ -26,8 +26,8 @@ The PCs learn more about the proxies' conflict and plans for Petra and Cantor. T
 
 ### Reward
 
-- Raise a Talent rank from 3 to 4.
 - Rin proxies install a disruptor beam "big gun" on the *Ibis Feather*. It adds 3 to any Rush or Focus roll, but must be recharged for 2 rounds after firing.
+- Rin healing chamber
 
 ## Scene 2
 
