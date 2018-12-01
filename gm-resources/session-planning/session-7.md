@@ -29,6 +29,14 @@ Ingtrigue
 
 The first 2 agendas are 20-pointers at Pressure 3, and the second 2 are 15-pointers at Pressure 2. This shift represents the Systems Cell calming down while the PCs get out from under the threat of imprisonment or death.
 
+There are five representatives from the System Cell here along with a security force the PCs did not expect to exist. Kind of like a security detail, rather than an army, but sizeable and mobile. Someything like, but other than the Adjudicators. Enforcers? Executioners?
+
+- Levi of Illyum, a rare orange/red/brown genotype Illian, known for her application of restoprative justice at sea.
+- Quad of Mollala, whose enduring defense of corporate personhood is know throughout the cells.
+- Juniper of Terra Nova, Judge of Judges, whose decisions cannot be anticipated because of her storied impartiality.
+- Admiral Lime, the Pirate, who asserts the needs of the fleet over those of a ship.
+- Chief Barrister Coil of Attis, whose assessment of newly proposed treaties and systems against both precedent and public opinion are trusted by all.
+
 Rin will volunteer the following when it comes time to plan:
 
 - There is a single precursor ship left in Petra. The *Pr Djed*. It has been locked in a geosynchronous orbit inside your star's coronoa for the past 20000 years.
