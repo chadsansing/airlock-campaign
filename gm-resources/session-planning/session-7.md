@@ -27,7 +27,7 @@ Ingtrigue
 - The Systems Cell needs to be convinced of a plan that does not throw the system into Chaos and allows it to plan for the gradual release of new information over time as it sees fit; they can reckon with the military threat Shut poses, but not the existential one.
 - The Systems Cell need to be convinced to put the PCs and their robot in charge of the defense of Cantor.
 
-Each agenda here is a 20-pointer at Pressure 3 for the first 2 and pressure 2 for the second 2. This shift represents the Systems Cell calming down while the PCs get out from under the threat of imprisonment or death.
+The first 2 agendas are 20-pointers at Pressure 3, and the second 2 are 15-pointers at Pressure 2. This shift represents the Systems Cell calming down while the PCs get out from under the threat of imprisonment or death.
 
 Rin will volunteer the following when it comes time to plan:
 
@@ -100,11 +100,11 @@ The PCs must obliterate the ships and return to Petra to keep more from coming t
 ### Outcome(s)
 
 - Cantor is safe for now.
-- The wormhole is closed and Rin joins the PCs, or the PCs travel back to Petra to confront Shut, finding an ongong battle surrounding the wormhole that gives them cover to act.
+- The wormhole is closed and Rin joins the PCs, or the PCs travel back to Petra to confront Shut, flying into an ongong battle surrounding the wormhole that gives them cover to act.
 
 ### Reward(s)
 
-- A new voidnetic and a new talent awakened by the expansion of their consciousness,m travel through the wormhole, and repeated exposure to exotic matter and radiation.
+- A new voidnetic and a new talent activated by the expansion of their consciousness,m travel through the wormhole, and repeated exposure to exotic matter and radiation.
 
 ## Next time on Adjudication Space...
 
