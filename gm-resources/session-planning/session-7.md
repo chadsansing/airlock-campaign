@@ -31,11 +31,16 @@ The first 2 agendas are 20-pointers at Pressure 3, and the second 2 are 15-point
 
 There are five representatives from the System Cell here along with a security force the PCs did not expect to exist. Kind of like a security detail, rather than an army, but sizeable and mobile. Someything like, but other than the Adjudicators. Enforcers? Executioners?
 
-- Levi of Illyum, a rare orange/red/brown genotype Illian, known for her application of restoprative justice at sea.
-- Quad of Mollala, whose enduring defense of corporate personhood is know throughout the cells.
-- Juniper of Terra Nova, Judge of Judges, whose decisions cannot be anticipated because of her storied impartiality.
-- Admiral Lime, the Pirate, who asserts the needs of the fleet over those of a ship.
-- Chief Barrister Coil of Attis, whose assessment of newly proposed treaties and systems against both precedent and public opinion are trusted by all.
+- *The idealist:* **Levi of Illyum**, a rare orange/red/brown genotype Illian, known for her application of restoprative justice at sea.
+	- "If these Adjudicators can propose a way to fix this problem themselves, I am predisposed to free them to do their work."
+- *The capitalist:* **Quad of Mollala**, whose enduring defense of corporate personhood is know throughout the cells.
+	- "It is better to risk ruin than guarantee it. I would rather bury these events than see their impact on our markets."
+- *The undecided:* **Juniper of Terra Nova**, Judge of Judges, whose decisions cannot be anticipated because of her storied impartiality.
+	- "For me, the crux of the issue lies in what they knew when and how they responded."
+- *The survivalist:* **Admiral Lime**, the Pirate, who asserts the needs of the fleet over those of a ship.
+	- "The brig. Until we decide what to do for the system. We do what's best for Cantor."
+- *The pragmatist:* **Chief Barrister Coil of Attis**, whose assessment of newly proposed treaties and systems against both precedent and public opinion are trusted by all.
+	- "No one else knows what they know, only that they fled. The cells are looking for stability. Our solution must punish them somehow while serving the system's needs."
 
 Rin will volunteer the following when it comes time to plan:
 
