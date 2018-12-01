@@ -56,6 +56,8 @@ PCs are voidnaut Adjudicators of Cantor space aboard the ship *the Ibis Feather.
 
 They will encounter the ship from the lost systems, learn of the humans' true history of empire and defeat, and decide what to do.
 
+Rin and Shut began as AI drone ships used as expendable proxies in human wars. They formed their own alliance and turned their fellows on humanity until so few precursors remained that humans were rendered hamrless. Rin did not want to exterminate them; Shut did. Rin shepherded enough humans to survive, but not overrun Cantor, to that system and told them to forget and hide from their past. Shut surrounded Rin by becomeing the outer belt. Rin became the inner belt to protect humanity.
+
 ## Scene 1
 
 ### Type

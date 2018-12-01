@@ -65,4 +65,4 @@ The PCs neutralize or evade the frigate and make it to their destination.
 
 ## Next time on Adjudication Space...
 
-The PCs return to Cantor with new information or investigate Petra further.
+The PCs return to Cantor with new information or investigate Petra further. The Systems Cell escorts them to an artic base on Attis to debrief.
