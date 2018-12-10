@@ -23,7 +23,7 @@ Ingtrigue
 ### Conflict
 
 - The Systems Cell wants to find an excuse to imprison the PCs indefinitely to hide the truth: someone sent a human body from millenia ago through the wormhole.
-- The Systems Cell wants to deny the PCs' report; it challenges the foundations of their beliefs too much. They believe life originated in this system and that the development of its Holacracy allowded for peaceful evolution, diversification, and specialization. The truth is that human survivors from the robots' war of liberation came here in such small numbers that they could erase theirt history and expand without competing for resources. They were a math problem to ensure surival, not a clever cadre of social engineers and lawyers. They created meme and myths that perservere to this day.
+- The Systems Cell wants to deny the PCs' report; it challenges the foundations of their beliefs too much. They believe life originated in this system and that the development of its Holacracy allowded for peaceful evolution, diversification, and specialization. The truth is that human survivors from the robots' war of liberation came here in such small numbers that they could erase their history and expand without competing for resources. They were a math problem to ensure surival, not a clever cadre of social engineers and lawyers. They created meme and myths that perservere to this day.
 - The Systems Cell needs to be convinced of a plan that does not throw the system into Chaos and allows it to plan for the gradual release of new information over time as it sees fit; they can reckon with the military threat Shut poses, but not the existential one.
 - The Systems Cell need to be convinced to put the PCs and their robot in charge of the defense of Cantor.
 
@@ -31,7 +31,7 @@ The first 2 agendas are 20-pointers at Pressure 3, and the second 2 are 15-point
 
 There are five representatives from the System Cell here along with a security force the PCs did not expect to exist. Kind of like a security detail, rather than an army, but sizeable and mobile. Someything like, but other than the Adjudicators. Enforcers? Executioners?
 
-- *The idealist:* **Levi of Illyum**, a rare orange/red/brown genotype Illian, known for her application of restoprative justice at sea.
+- *The idealist:* **Levi of Illyum**, a rare orange/red/brown genotype Illian, known for her application of restorative justice at sea.
 	- "If these Adjudicators can propose a way to fix this problem themselves, I am predisposed to free them to do their work."
 - *The capitalist:* **Quad of Mollala**, whose enduring defense of corporate personhood is know throughout the cells.
 	- "It is better to risk ruin than guarantee it. I would rather bury these events than see their impact on our markets."
