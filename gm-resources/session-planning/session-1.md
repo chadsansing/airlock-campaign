@@ -83,7 +83,7 @@ This is the first scene, so it's important to remind the PCs that they can resol
 
 ### Outcome(s)
 
-- If the hauler is convicned to stand down, Illyum can pay the contracted price for its shipment.
+- If the hauler is convinced to stand down, Illyum can pay the contracted price for its shipment.
 - If the hauler is disabled, Illyum can recover its cargo and pay the contracted price.
 - If the hauler is destroyed, the shipment is lost. A fragment of it can be scaveneged from space.
 - If the hauler escapes, the shipment is lost.
