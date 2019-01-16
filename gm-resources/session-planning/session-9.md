@@ -31,11 +31,40 @@ The PCs take the battle back to Shut in the Petra system.
 
 ### Type
 
+This will most likely be a crew scene.
+
 ### Conflict
+
+PCs may adopt one or more of several strategies for dealing with Shut, including:
+
+- Running the outer asteroid belt blockade for a wormhole into another system in hope of finding a generation ship.
+- Detonating the *Pr Djed's* core in the Shut asteroid belt.
+- Detonating the *Pr Djed's* core near the exotic matter planetoid.
+- Detonating the *Pr Djed's* core in the wormhole to Cantor.
+- Activating the Zeno's Paradox doomsday weapon.
+
+Part of the conflict will be deciding whether or not to try and escape the system if PCs detonate the ship or its weapon.
 
 ### Outcome(s)
 
+The PCs will likely wind up in one of the following situations. They might wind up:
+
+- WHurtling through a dark, alien system searching for a hidden generation ship running silent.
+- Sacrificing themselves to neutralize Shut.
+- Detonating their ship's core or its weapon in Petra while fleeing back to Cantor.
+
 ### Reward(s)
+
+Rewards might include:
+
+- A new crew means specific to the *Pr Djed*.
+- A new character.
+- A new passage.
 
 ## Next time on Adjudication Space...
 
+PCs might:
+
+- Look for their ancestors.
+- Begin again.
+- Decide on their next adventure.
