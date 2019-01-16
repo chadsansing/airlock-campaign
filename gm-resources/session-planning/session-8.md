@@ -64,30 +64,11 @@ PCs must reactivate 3 core systems - piloting, shields, and engineering, in 5 ro
 - The PCs get a new ship, the precursor frigate *Pr Djed*, that will help them in their battle against Shut.
 - PCs get 1 rank on an intrigue skill.
 
-## Scene 3
+### Rewards
 
-"There are multiple frigate sized ships coming through the wormhole and attacking mining operations in Amnir's wall. They seem to be landing on asteroids."
+- As above regarding the *Pr Djed*.
 
-Rin: "Oh no."
-
-### Type
-
-Crew
-
-### Conflict
-
-Shut has run Rin's blockade with 3 frigates that are attempting to land on Amnir's Wall and turn the asteroid belt into a beachhead for its decentralized consciousness.
-
-The PCs must obliterate the ships and return to Petra to keep more from coming through, or else destroy the wormhole.
-
-### Outcome(s)
-
-- Cantor is safe for now.
-- The wormhole is closed and Rin joins the PCs, or the PCs travel back to Petra to confront Shut, flying into an ongong battle surrounding the wormhole that gives them cover to act.
-
-### Reward(s)
-
-- A new voidnetic and a new talent activated by the expansion of their consciousness,m travel through the wormhole, and repeated exposure to exotic matter and radiation.
+***We left off here.***
 
 ## Next time on Adjudication Space...
 
