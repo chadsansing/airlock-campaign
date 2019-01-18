@@ -4,7 +4,7 @@
 
 ## Scene 1
 
-"There are multiple frigate sized ships coming through the wormhole and attacking mining operations in Amnir's wall. They seem to be landing on asteroids."
+"There are multiple frigates coming through the wormhole and attacking mining operations in Amnir's wall. They seem to be landing on asteroids."
 
 ### Type
 
@@ -44,6 +44,8 @@ PCs may adopt one or more of several strategies for dealing with Shut, including
 - Activating the Zeno's Paradox doomsday weapon.
 
 Part of the conflict will be deciding whether or not to try and escape the system if PCs detonate the ship or its weapon.
+
+***We left off here with PCs fleeing a Shut Dreadnaught pursuit as they attempted to run the system and escape through the middle wormhole and follow the*** Osiris***.***
 
 ### Outcome(s)
 
