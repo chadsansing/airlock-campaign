@@ -40,8 +40,6 @@ The PCs return home as heroes, but only the system cell knows it.
 
 +1 crew voidnetic manifests itself.
 
-***We stopped here.***
-
 ## Scene 3
 
 ### Type
