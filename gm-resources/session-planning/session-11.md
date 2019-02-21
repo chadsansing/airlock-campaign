@@ -40,6 +40,8 @@ Having lost its dreadnaught, the Harvest system Dyson Sphere, and its avatar, Sh
 
 +1 combat voidnetic manifests itself from the stress and resolution of this conflict.
 
+***We stopped here.***
+
 ## Scene 3
 
 ### Type
@@ -48,7 +50,7 @@ Crew
 
 ### Conflict
 
-If there's time to run this scene, the PCs will have to escape Petra and make it back to Casntor before their chosen doomsday weapon (the *Pr Djed's* core or its Xeno's Paradox. device) destroys Petra or closes the wormhole to Cantor. 
+If there's time to run this scene, the PCs will have to escape Petra and make it back to Cantor before their chosen doomsday weapon (the *Pr Djed's* core or its Xeno's Paradox device) destroys Petra or closes the wormhole to Cantor. 
 
 ### Outcome(s)
 
