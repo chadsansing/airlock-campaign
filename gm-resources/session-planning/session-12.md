@@ -38,7 +38,7 @@ The PCs return home as heroes, but only the system cell knows it.
 
 ### Reward(s)
 
-+1 crew voidnetic manifests itself.
++1 Crew voidnetic manifests itself.
 
 ## Scene 3
 
